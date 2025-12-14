@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel Profile Audit",
+  "description": "An AI-powered cybersecurity tool that analyzes public social media profile screenshots for privacy vulnerabilities, social engineering risks, and safety gaps.",
+  "requestFramePermissions": []
+}
